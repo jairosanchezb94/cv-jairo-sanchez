@@ -1,3 +1,22 @@
+Mi Protafolio realizado con React: 
+
+![Captura](https://user-images.githubusercontent.com/32551746/123548673-0b3b3e00-d766-11eb-94a3-36d225a8c38a.JPG)
+
+<div align="center">Donde me puedes encontrar:</div>
+
+:earth_africa: Portafolios **[Portafolios](https://jairosanchezb94.github.io/Portafolio-2/)**
+
+:book: Facebook **[Facebook](https://www.facebook.com/jairosanh)**
+
+:blue_heart: Linkedin **[Linkedin](https://www.linkedin.com/in/jairo-s%C3%A1nchez-64416a12b/)**
+
+[![Linkedin: JairoSánchez](https://img.shields.io/badge/-jairosanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairo-s%C3%A1nchez-malaga/)](https://www.linkedin.com/in/jairo-s%C3%A1nchez-malaga/)
+[![GitHub Jairosanchezb94](https://img.shields.io/github/followers/jairosanchezb94?label=follow&style=social)](https://github.com/jairosanchezb94)
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
