@@ -4,7 +4,7 @@ export const projects = [
   {
     id: uuidv4(),
     title: "Yummy Food",
-    desc: "Este es un proyecto Web delivery que cuenta con dos partes una web principal y otra de administración. Esta realizada con PHP | JavaScripts | CSS | Bootstrap | MySQL.",
+    desc: "Este es un proyecto Web delivery que cuenta con dos partes una web principal y otra de administración. Esta realizada con PHP | JavaScript | CSS | Bootstrap | MySQL.",
     github: "https://github.com/jairosanchezb94/Yummy-Food",
     demo: "https://jairosanchezb94.github.io/Yummy-Food/",
     image: "./images/project-1.jpeg",
@@ -28,7 +28,7 @@ export const projects = [
   {
     id: uuidv4(),
     title: "Tetris Jsanchez",
-    desc: "Mítico juego en este caso es el Tetris realizado iuntegramente en JavaScripts | CSS.",
+    desc: "Mítico juego en este caso es el Tetris realizado iuntegramente en JavaScript | CSS.",
     github: "https://github.com/jairosanchezb94/tetrisjsanchez",
     demo: "https://jairosanchezb94.github.io/tetrisjsanchez/",
     image: "./images/project-4.jpeg",
@@ -36,7 +36,7 @@ export const projects = [
   {
     id: uuidv4(),
     title: "Web de Comics",
-    desc: "Esta Web/App es una web realizada integramente en Angular y JavaScripts, se trata de una web de busqueda de súper héroes y su información.",
+    desc: "Esta Web/App es una web realizada integramente en Angular y JavaScript, se trata de una web de busqueda de súper héroes y su información.",
     github: "https://github.com/jairosanchezb94/Angular-Parte-2",
     demo: "https://jairosanchezb94.github.io/Angular-Parte-2/home",
     image: "./images/project-5.jpeg",
@@ -44,7 +44,7 @@ export const projects = [
   {
     id: uuidv4(),
     title: "Web Piedra Papel y Tijeras",
-    desc: "Es un juego mítico que seria piedra papel y tijeras esta realizado integramente en JavaScripts | CSS.",
+    desc: "Es un juego mítico que seria piedra papel y tijeras esta realizado integramente en JavaScript | CSS.",
     github: "https://github.com/jairosanchezb94/piedrapapeltijera",
     demo: "https://jairosanchezb94.github.io/piedrapapeltijera/",
     image: "./images/project-6.jpeg",
